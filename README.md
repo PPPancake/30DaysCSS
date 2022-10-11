@@ -6,9 +6,7 @@ a challenge of 30 CSS projects
 
 ### DAY 01
 
-![](https://j.gifs.com/pZlx82.gif)
-
-<iframe src='//gifs.com/embed/30dayscss-01-pZlx82' frameborder='0' scrolling='no' width='1800px' height='650px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+![](https://j.gifs.com/pZlx82.gif)<iframe src='//gifs.com/embed/30dayscss-01-pZlx82' frameborder='0' scrolling='no' width='1800px' height='650px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
 学到:
 
